@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+.env
+.env.*
+venv/
+/311_Service_Requests_from_2010_to_Present.csv
